@@ -66,7 +66,7 @@
 <img width="1917" height="1040" alt="Screenshot 2026-10-08 154413" src="https://github.com/user-attachments/assets/a0c5fa88-9882-4736-b2ac-0406a8aa58a0" />
 
 
-### Bài tập 4
+### Bài tập 5
 #### 1. Ảnh màn hình Giao diện chính
 <img width="1917" height="1021" alt="Screenshot 2026-10-08 154517" src="https://github.com/user-attachments/assets/b47d3680-3b95-4629-9b0b-2195a555d928" />
 
